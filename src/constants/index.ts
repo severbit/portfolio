@@ -1,5 +1,3 @@
-import { FaFigma } from "react-icons/fa";
-
 // add icons link after
 
 interface HeaderLink {
